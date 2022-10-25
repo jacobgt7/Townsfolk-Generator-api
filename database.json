@@ -21,21 +21,22 @@
       "name": "Noobonia",
       "userId": 1,
       "id": 1
+    },
+    {
+      "name": "Peasant Hills",
+      "userId": 1,
+      "id": 2
     }
   ],
   "characters": [],
   "genders": [
     {
       "id": 1,
-      "name": "Male"
+      "name": "male"
     },
     {
       "id": 2,
-      "name": "Female"
-    },
-    {
-      "id": 3,
-      "name": "Other"
+      "name": "female"
     }
   ]
 }
