@@ -18,17 +18,40 @@
   ],
   "villages": [
     {
-      "name": "Noobonia",
-      "userId": 1,
-      "id": 1
-    },
-    {
       "name": "Peasant Hills",
       "userId": 1,
       "id": 2
     }
   ],
-  "characters": [],
+  "characters": [
+    {
+      "name": "John Doe",
+      "genderId": 1,
+      "imgURL": "https://avatars.dicebear.com/api/male/0.5151773694078245.svg",
+      "profession": "Blacksmith",
+      "background": "",
+      "villageId": 2,
+      "id": 3
+    },
+    {
+      "name": "Jill Hill",
+      "genderId": 2,
+      "imgURL": "https://avatars.dicebear.com/api/female/0.5311816652992785.svg",
+      "profession": "Farmer",
+      "background": "",
+      "villageId": 2,
+      "id": 4
+    },
+    {
+      "name": "Jack Hill",
+      "genderId": 1,
+      "imgURL": "https://avatars.dicebear.com/api/male/0.5162798689081822.svg",
+      "profession": "Farmer",
+      "background": "",
+      "villageId": 2,
+      "id": 5
+    }
+  ],
   "genders": [
     {
       "id": 1,
