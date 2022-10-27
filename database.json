@@ -25,15 +25,6 @@
   ],
   "characters": [
     {
-      "name": "John Doe",
-      "genderId": 1,
-      "imgURL": "https://avatars.dicebear.com/api/male/0.5151773694078245.svg",
-      "profession": "Blacksmith",
-      "background": "",
-      "villageId": 2,
-      "id": 3
-    },
-    {
       "name": "Jill Hill",
       "genderId": 2,
       "imgURL": "https://avatars.dicebear.com/api/female/0.5311816652992785.svg",
@@ -47,7 +38,7 @@
       "genderId": 1,
       "imgURL": "https://avatars.dicebear.com/api/male/0.5162798689081822.svg",
       "profession": "Farmer",
-      "background": "",
+      "background": "Lived his whole life in one  place.  Married to Jill. ",
       "villageId": 2,
       "id": 5
     }
