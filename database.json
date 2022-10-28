@@ -38,9 +38,18 @@
       "genderId": 1,
       "imgURL": "https://avatars.dicebear.com/api/male/0.5162798689081822.svg",
       "profession": "Farmer",
-      "background": "Lived his whole life in one  place.  Married to Jill. ",
+      "background": "Lived his whole life in one  place.  Married to Jill. Hates pineapple.",
       "villageId": 2,
       "id": 5
+    },
+    {
+      "name": "Roland Brewer",
+      "genderId": 1,
+      "imgURL": "https://avatars.dicebear.com/api/male/0.33027299267621535.svg",
+      "profession": "Blacksmith",
+      "background": "Not originally from here.  Is a skilled blacksmith when not too drunk to hold a hammer.",
+      "villageId": 2,
+      "id": 6
     }
   ],
   "genders": [
@@ -51,6 +60,176 @@
     {
       "id": 2,
       "name": "female"
+    }
+  ],
+  "professions": [
+    {
+      "id": 1,
+      "name": "Farmer"
+    },
+    {
+      "id": 2,
+      "name": "Blacksmith"
+    },
+    {
+      "id": 3,
+      "name": "Baker"
+    },
+    {
+      "id": 4,
+      "name": "Butcher"
+    },
+    {
+      "id": 5,
+      "name": "Carpenter"
+    },
+    {
+      "id": 6,
+      "name": "Beggar"
+    },
+    {
+      "id": 7,
+      "name": "Physician"
+    },
+    {
+      "id": 8,
+      "name": "Merchant"
+    },
+    {
+      "id": 9,
+      "name": "Tailor"
+    },
+    {
+      "id": 10,
+      "name": "Alchemist"
+    },
+    {
+      "id": 11,
+      "name": "Guard"
+    },
+    {
+      "id": 12,
+      "name": "Politician"
+    },
+    {
+      "id": 13,
+      "name": "Street Sweeper"
+    },
+    {
+      "id": 14,
+      "name": "Miller"
+    },
+    {
+      "id": 15,
+      "name": "Shoemaker"
+    },
+    {
+      "id": 16,
+      "name": "Thatcher"
+    },
+    {
+      "id": 17,
+      "name": "Stonemason"
+    },
+    {
+      "id": 18,
+      "name": "Water Carrier"
+    },
+    {
+      "id": 19,
+      "name": "Candlemaker"
+    },
+    {
+      "id": 20,
+      "name": "Beekeeper"
+    },
+    {
+      "id": 21,
+      "name": "Town Crier"
+    },
+    {
+      "id": 22,
+      "name": "Minstrel"
+    },
+    {
+      "id": 23,
+      "name": "Rat Catcher"
+    },
+    {
+      "id": 24,
+      "name": "Barber"
+    },
+    {
+      "id": 25,
+      "name": "Tanner"
+    },
+    {
+      "id": 26,
+      "name": "Ropemaker"
+    },
+    {
+      "id": 27,
+      "name": "Weaver"
+    },
+    {
+      "id": 28,
+      "name": "Winemaker"
+    },
+    {
+      "id": 29,
+      "name": "Mason"
+    },
+    {
+      "id": 30,
+      "name": "Locksmith"
+    },
+    {
+      "id": 31,
+      "name": "Tax Collector"
+    },
+    {
+      "id": 32,
+      "name": "Burglar"
+    },
+    {
+      "id": 33,
+      "name": "Fence"
+    },
+    {
+      "id": 34,
+      "name": "Outlaw"
+    },
+    {
+      "id": 35,
+      "name": "Clerk"
+    },
+    {
+      "id": 36,
+      "name": "Pilgrim"
+    },
+    {
+      "id": 37,
+      "name": "Taverner"
+    },
+    {
+      "id": 38,
+      "name": "Banker"
+    },
+    {
+      "id": 39,
+      "name": "Bard"
+    },
+    {
+      "id": 40,
+      "name": "Scholar"
+    },
+    {
+      "id": 41,
+      "name": "Hermit"
+    },
+    {
+      "id": 42,
+      "name": "Miner"
     }
   ]
 }
