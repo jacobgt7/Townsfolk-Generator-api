@@ -14,6 +14,11 @@
       "id": 3,
       "name": "Elwyn Weber",
       "email": "Janet.Marks@hotmail.com"
+    },
+    {
+      "email": "birdistheword@email.com",
+      "name": "Peter Griffin",
+      "id": 4
     }
   ],
   "villages": [
@@ -21,6 +26,21 @@
       "name": "Peasant Hills",
       "userId": 1,
       "id": 2
+    },
+    {
+      "name": "Quahog",
+      "userId": 4,
+      "id": 3
+    },
+    {
+      "name": "Quahog",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "name": "Detroit",
+      "userId": 2,
+      "id": 6
     }
   ],
   "characters": [
@@ -50,16 +70,133 @@
       "background": "Not originally from here.  Is a skilled blacksmith when not too drunk to hold a hammer.",
       "villageId": 2,
       "id": 6
+    },
+    {
+      "name": "Leslie Henderson",
+      "genderId": 1,
+      "imgURL": "https://avatars.dicebear.com/api/male/0.5419514378787678.svg",
+      "profession": "Outlaw",
+      "background": "",
+      "villageId": 2,
+      "id": 7
+    },
+    {
+      "name": "Rosemary Hall",
+      "genderId": 2,
+      "imgURL": "https://avatars.dicebear.com/api/female/0.07009339609363763.svg",
+      "profession": "Outlaw",
+      "background": "",
+      "villageId": 2,
+      "id": 8
+    },
+    {
+      "name": "Kristen Robertson",
+      "genderId": 2,
+      "imgURL": "https://avatars.dicebear.com/api/female/0.6835999326550501.svg",
+      "profession": "Street Sweeper",
+      "background": "",
+      "villageId": 2,
+      "id": 9
+    },
+    {
+      "name": "Tyrone Moreno",
+      "genderId": 1,
+      "imgURL": "https://avatars.dicebear.com/api/male/0.1409772440085333.svg",
+      "profession": "Stonemason",
+      "background": "",
+      "villageId": 2,
+      "id": 10
+    },
+    {
+      "name": "Ramon May",
+      "genderId": 1,
+      "imgURL": "https://avatars.dicebear.com/api/male/0.4159450330785952.svg",
+      "profession": "Mason",
+      "background": "",
+      "villageId": 3,
+      "id": 11
+    },
+    {
+      "name": "Taylor Robinson",
+      "genderId": 2,
+      "imgURL": "https://avatars.dicebear.com/api/female/0.26261858864561005.svg",
+      "profession": "Blacksmith",
+      "background": "",
+      "villageId": 3,
+      "id": 12
+    },
+    {
+      "name": "Stanley Morgan",
+      "genderId": 1,
+      "imgURL": "https://avatars.dicebear.com/api/male/0.25310602919626435.svg",
+      "profession": "Thatcher",
+      "background": "",
+      "villageId": 3,
+      "id": 13
+    },
+    {
+      "name": "Clifford Franklin",
+      "genderId": 1,
+      "imgURL": "https://avatars.dicebear.com/api/male/0.3303876558741694.svg",
+      "profession": "Farmer",
+      "background": "",
+      "villageId": 5,
+      "id": 14
+    },
+    {
+      "name": "Hilda Scott",
+      "genderId": 2,
+      "imgURL": "https://avatars.dicebear.com/api/female/0.0557902974395188.svg",
+      "profession": "Fence",
+      "background": "Loves to cheat.  Loves to steal.  Hates the color yellow.",
+      "villageId": 5,
+      "id": 15
+    },
+    {
+      "name": "Addison Bates",
+      "genderId": 2,
+      "imgURL": "https://avatars.dicebear.com/api/female/0.36825981042126044.svg",
+      "profession": "Baker",
+      "background": "",
+      "villageId": 5,
+      "id": 16
+    },
+    {
+      "name": "Claudia Wagner",
+      "genderId": 2,
+      "imgURL": "https://avatars.dicebear.com/api/female/0.8399564247191968.svg",
+      "profession": "Miller",
+      "background": "",
+      "villageId": 5,
+      "id": 17
+    },
+    {
+      "name": "Victor Peterson",
+      "genderId": 1,
+      "imgURL": "https://avatars.dicebear.com/api/male/0.5525996734604306.svg",
+      "profession": "Ropemaker",
+      "background": "",
+      "villageId": 5,
+      "id": 18
+    },
+    {
+      "name": "Cody Knight",
+      "genderId": 1,
+      "imgURL": "https://avatars.dicebear.com/api/male/0.21329369857692115.svg",
+      "profession": "Town Crier",
+      "background": "",
+      "villageId": 5,
+      "id": 19
     }
   ],
   "genders": [
     {
       "id": 1,
-      "name": "male"
+      "name": "Male"
     },
     {
       "id": 2,
-      "name": "female"
+      "name": "Female"
     }
   ],
   "professions": [
